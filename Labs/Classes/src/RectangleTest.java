@@ -6,12 +6,12 @@ public class RectangleTest {
 
   private void execute() {
     Rectangle rectangle1 = new Rectangle(2, 4);
-    System.out.println("Renctangle1:");
+    System.out.println("Rectangle1:");
     printRectangle(rectangle1);
     System.out.println();
 
     Rectangle rectangle2 = new Rectangle();
-    System.out.println("Renctangle2:");
+    System.out.println("Rectangle2:");
     printRectangle(rectangle2);
     System.out.println();
   }
